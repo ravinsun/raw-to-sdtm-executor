@@ -1,0 +1,41 @@
+USUBJID,VSTEST,VSTESTCD,VSSTRESN,VSSTRESU,VSDTC
+BMRN-2023--S008,Weight,WEIGHT,100.4,beats/min,2023-02-01
+BMRN-2023--S012,Systolic Blood Pressure,WEIGHT,138.7,kg,2023-02-03
+BMRN-2023--S012,Heart Rate,WEIGHT,106.2,mmHg,2023-02-05
+BMRN-2023--S005,Systolic Blood Pressure,HR,141.8,mmHg,2023-02-07
+BMRN-2023--S007,Diastolic Blood Pressure,DIABP,100.9,kg,2023-02-09
+BMRN-2023--S004,Diastolic Blood Pressure,SYSBP,91.3,mmHg,2023-02-11
+BMRN-2023--S006,Diastolic Blood Pressure,WEIGHT,119.5,kg,2023-02-13
+BMRN-2023--S013,Weight,WEIGHT,143.1,mmHg,2023-02-15
+BMRN-2023--S020,Systolic Blood Pressure,WEIGHT,101.8,mmHg,2023-02-17
+BMRN-2023--S015,Weight,HR,172.4,kg,2023-02-19
+BMRN-2023--S003,Weight,WEIGHT,64.7,mmHg,2023-02-21
+BMRN-2023--S008,Diastolic Blood Pressure,WEIGHT,110.2,kg,2023-02-23
+BMRN-2023--S020,Diastolic Blood Pressure,WEIGHT,176.1,mmHg,2023-02-25
+BMRN-2023--S016,Weight,DIABP,125.8,mmHg,2023-02-27
+BMRN-2023--S013,Systolic Blood Pressure,HR,110.8,beats/min,2023-03-01
+BMRN-2023--S018,Heart Rate,WEIGHT,128.2,beats/min,2023-03-03
+BMRN-2023--S010,Weight,SYSBP,129.1,kg,2023-03-05
+BMRN-2023--S019,Systolic Blood Pressure,SYSBP,147.8,beats/min,2023-03-07
+BMRN-2023--S017,Diastolic Blood Pressure,SYSBP,75.3,kg,2023-03-09
+BMRN-2023--S019,Diastolic Blood Pressure,HR,90.0,beats/min,2023-03-11
+BMRN-2023--S005,Systolic Blood Pressure,HR,129.7,mmHg,2023-03-13
+BMRN-2023--S009,Heart Rate,SYSBP,164.1,kg,2023-03-15
+BMRN-2023--S012,Diastolic Blood Pressure,WEIGHT,127.4,kg,2023-03-17
+BMRN-2023--S001,Diastolic Blood Pressure,HR,88.6,mmHg,2023-03-19
+BMRN-2023--S001,Diastolic Blood Pressure,SYSBP,141.6,kg,2023-03-21
+BMRN-2023--S015,Systolic Blood Pressure,SYSBP,148.8,kg,2023-03-23
+BMRN-2023--S002,Weight,WEIGHT,88.6,beats/min,2023-03-25
+BMRN-2023--S016,Diastolic Blood Pressure,DIABP,105.3,kg,2023-03-27
+BMRN-2023--S008,Weight,HR,124.1,mmHg,2023-03-29
+BMRN-2023--S013,Heart Rate,WEIGHT,119.6,beats/min,2023-03-31
+BMRN-2023--S001,Diastolic Blood Pressure,SYSBP,106.8,beats/min,2023-04-02
+BMRN-2023--S016,Diastolic Blood Pressure,SYSBP,95.7,mmHg,2023-04-04
+BMRN-2023--S007,Heart Rate,WEIGHT,72.0,mmHg,2023-04-06
+BMRN-2023--S005,Diastolic Blood Pressure,HR,66.4,beats/min,2023-04-08
+BMRN-2023--S003,Weight,DIABP,175.0,kg,2023-04-10
+BMRN-2023--S012,Systolic Blood Pressure,DIABP,161.7,beats/min,2023-04-12
+BMRN-2023--S016,Weight,SYSBP,102.6,mmHg,2023-04-14
+BMRN-2023--S019,Systolic Blood Pressure,HR,174.8,beats/min,2023-04-16
+BMRN-2023--S005,Systolic Blood Pressure,DIABP,141.2,mmHg,2023-04-18
+BMRN-2023--S014,Weight,HR,117.9,beats/min,2023-04-20
