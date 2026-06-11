@@ -56,7 +56,10 @@ def validate_all(sdtm_results):
         issues = validate_domain(domain, df)
         all_issues.append(issues)
         print(f"{'OK' if len(issues)==0 else 'ISSUES'} {domain}: {len(issues)} issue(s) found")
-    return pd.concat(all_issues, ignore_index=True)
+    non_empty = [df for df in all_issues if not df.empty]
+    if non_empty:
+        return pd.concat(non_empty, ignore_index=True)
+    return pd.DataFrame(columns=["check_id","domain","variable","row","severity","message"])
 
 if __name__ == "__main__":
     from src.mapper import map_all_domains
