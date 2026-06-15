@@ -1,0 +1,26 @@
+variable_name,label,domain,source_study
+USUBJID,Unique Subject Identifier,DM,BMRN-101
+AGE,Age,DM,BMRN-101
+SEX,Sex,DM,BMRN-101
+RACE,Race,DM,BMRN-101
+ETHNIC,Ethnicity,DM,BMRN-101
+COUNTRY,Country,DM,BMRN-101
+RFSTDTC,Subject Reference Start Date,DM,BMRN-101
+LBTEST,Lab Test Name,LB,BMRN-101
+LBTESTCD,Lab Test Short Name,LB,BMRN-101
+LBSTRESN,Numeric Result in Standard Units,LB,BMRN-101
+LBSTRESU,Standard Units,LB,BMRN-101
+LBDTC,Date of Specimen Collection,LB,BMRN-101
+AETERM,Reported Term for Adverse Event,AE,BMRN-101
+AESEV,Severity/Intensity,AE,BMRN-101
+AESER,Serious Event,AE,BMRN-101
+AESTDTC,Start Date of Adverse Event,AE,BMRN-101
+AEREL,Causality,AE,BMRN-101
+VSTEST,Vital Signs Test Name,VS,BMRN-101
+VSTESTCD,Vital Signs Test Short Name,VS,BMRN-101
+VSSTRESN,Numeric Result in Standard Units,VS,BMRN-101
+VSDTC,Date of Measurement,VS,BMRN-101
+BMRN_ENZY_LVL,Enzyme Level Biomarker,LB,BMRN-101
+BMRN_GAG_SCORE,GAG Score Clinical Assessment,PE,BMRN-102
+BMRN_MRC_GRD,MRC Muscle Grade,PE,BMRN-102
+BMRN_6MWT,Six Minute Walk Test Distance,EG,BMRN-102
